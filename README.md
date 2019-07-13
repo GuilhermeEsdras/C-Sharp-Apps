@@ -26,7 +26,7 @@
     <br/>
     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/" target="_blank"><strong>Ver documentação da linguagem »</strong></a>
     <br/><br/>
-    <a href="../Projetos .NET">Projetos .NET</a>
+    <a href="Testes">Projetos .NET</a>
     ·
     <a href="">Exercícios Resolvidos</a>
     ·
@@ -79,8 +79,8 @@ O que foi necessário para criar e rodar programas em C#
 Para executar e criar programas em **C#** é necessário ter a plataforma Microsoft .NET (*dot net* em inglês) Core SDK *(Software Development Kit)* instalada no computador.
 
 - Para verificar se o .NET está instalado no PC, basta executar o comando no CMD: <br/>   `> dotnet`
-    > Se o comando não for reconhecido, **não está** instalado! *(ver [Links Úteis](#Links-%C3%9Ateis) para instalar o .NET)* <br/>
-    > Caso apareça outras mensagens, **está** instalado! <br/>
+    > - Se o comando não for reconhecido, **não está** instalado! *(ver [Links Úteis](#Links-%C3%9Ateis) para instalar o .NET)* <br/>
+    > - Caso apareça outras mensagens, **está** instalado! <br/>
 
 ### Criando Projeto .NET
 - Para criar um projeto C# com .NET, executar o comando: <br/>
