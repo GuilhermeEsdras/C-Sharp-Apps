@@ -49,7 +49,7 @@
     - [Pré-Requisitos](#Pr%C3%A9-Requisitos)
     - [Criando Projeto .NET](#Criando-Projeto-NET)
     - [Executando .cs pelo CMD](#Executando-cs-pelo-CMD)
-    - [Exemplo de Código](#Exemplo-de-C%C3%B3digo)
+    - [Exemplo de Programa](#Exemplo-de-Programa)
   - [Links Úteis](#Links-%C3%9Ateis)
   - [Autor](#Autor)
   - [Licença](#Licen%C3%A7a)
@@ -133,7 +133,7 @@ Criando e executando um programa isolado/simples em C# pelo CMD (sem necessidade
      `> csc HelloWorld.cs // Para compilar um programa chamado "HelloWorld"` <br/>
      `> HelloWorld.exe // Para executar este programa`
 
-### Exemplo de Código
+### Exemplo de Programa
 ``` C#
 using System;
 
