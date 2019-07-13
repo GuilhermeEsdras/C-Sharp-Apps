@@ -106,10 +106,10 @@ Para executar e criar programas em **C#** é necessário ter a plataforma Micros
 ### Executando .cs pelo CMD
 Criando e executando um programa isolado/simples em C# pelo CMD (sem necessidade de criar projeto ou abrir Visual Studio)
 
-1. Para executar arquivos *.cs* pelo terminal deve-se ter o compilador *"csc"* devidamente configurado no PC. Para isso, deve-se instalar a versão mais recente do *Visual Studio* *(Não confundir com Visual Studio Code)* da *Microsoft*.
+1. Para executar arquivos *.cs* pelo terminal deve-se ter o compilador *"csc"* devidamente configurado no PC.
 
-2. Após ter instalado o *Microsoft Visual Studio*, copiar o endereço da pasta da versão mais recente do .NET. Geralmente localiza-se em:
-  `C:\Windows\Microsoft.NET\Framework64\"pasta da versão mais recente do Visual Studio"`
+2. Após certifica-se de ter instalado o *.NET*, copiar o endereço da pasta da versão mais recente do mesmo. Geralmente localiza-se em:
+  `C:\Windows\Microsoft.NET\Framework64\"pasta da versão mais recente"`
      - Exemplo:
      `C:\Windows\Microsoft.NET\Framework64\v4.0.30319`
 
