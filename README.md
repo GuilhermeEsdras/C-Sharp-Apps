@@ -106,9 +106,9 @@ Para executar e criar programas em **C#** é necessário ter a plataforma Micros
 ### Executando .cs pelo CMD
 Criando e executando um programa isolado/simples em C# pelo CMD (sem necessidade de criar projeto ou abrir Visual Studio)
 
-1. Para executar arquivos *.cs* pelo terminal deve-se ter o compilador *"csc"* devidamente configurado no PC. Para isso, deve-se instalar a versão mais recente do *Visual Studio* (**Não confundir** com *Visual Studio Code*) da *Microsoft*.
+1. Para executar arquivos *.cs* pelo terminal deve-se ter o compilador *"csc"* devidamente configurado no PC. Para isso, deve-se instalar a versão mais recente do *Visual Studio* *(Não confundir com Visual Studio Code)* da *Microsoft*.
 
-2. Após ter instalado o *Visual Studio*, copiar o endereço da pasta da versão mais recente do .NET. Geralmente localiza-se em:
+2. Após ter instalado o *Microsoft Visual Studio*, copiar o endereço da pasta da versão mais recente do .NET. Geralmente localiza-se em:
   `C:\Windows\Microsoft.NET\Framework64\"pasta da versão mais recente do Visual Studio"`
      - Exemplo:
      `C:\Windows\Microsoft.NET\Framework64\v4.0.30319`
@@ -120,8 +120,8 @@ Criando e executando um programa isolado/simples em C# pelo CMD (sem necessidade
 5. Finalmente, será capaz de compilar e executar programas C# pelo terminal.
 
 - Para compilar programas *".cs"* e executá-los no terminal/cmd:
-  - Abrir pasta onde se localiza o arquivo .cs: <br/>
-     `> cd "pasta do programa`
+  - Abrir pasta onde se localiza o arquivo *.cs*: <br/>
+     `> cd "pasta do programa"`
   - Compilar o programa: <br/>
      `> csc "nome do programa".cs // Será gerado um arquivo "nome do programa".exe`
   - Para executar: <br/>
@@ -147,6 +147,10 @@ namespace HelloGui
     }
 } 
 ```
+
+Saída:
+
+`> Hello Gui! =)`
 <!-- -->
 
 <!-- Links-->
