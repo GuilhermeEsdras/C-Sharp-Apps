@@ -24,7 +24,7 @@
 <p align="center">
     Bem-vindo ao meu repositório de <strong>C Sharp</strong>!
     <br/>
-    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/"><strong>Ver documentação da linguagem »</strong></a>
+    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/" target="_blank"><strong>Ver documentação da linguagem »</strong></a>
     <br/><br/>
     <a href="">Projetos .NET</a>
     ·
