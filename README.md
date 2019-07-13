@@ -26,7 +26,7 @@
     <br/>
     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/" target="_blank"><strong>Ver documentação da linguagem »</strong></a>
     <br/><br/>
-    <a href="">Projetos .NET</a>
+    <a href="../Projetos .NET">Projetos .NET</a>
     ·
     <a href="">Exercícios Resolvidos</a>
     ·
