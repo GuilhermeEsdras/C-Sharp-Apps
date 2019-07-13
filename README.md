@@ -129,7 +129,7 @@ Criando e executando um programa isolado/simples em C# pelo CMD (sem necessidade
      `> "nome do programa".exe`
   
   - Exemplo: <br/>
-     `> cd "C:\Users\Fulano\Documentos\Meus Programas\CSharp\Programa Hello World" // Para ir até a pasta do arquivo .cs` <br/>
+     `> cd "C:\Users\Guilherme\Documentos\Meus Programas\CSharp\Programa Hello World" // Para ir até a pasta do arquivo .cs` <br/>
      `> csc HelloWorld.cs // Para compilar um programa chamado "HelloWorld"` <br/>
      `> HelloWorld.exe // Para executar este programa`
 
