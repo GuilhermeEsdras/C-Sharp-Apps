@@ -4,7 +4,7 @@
 
 <!-- Badges -->
 <p align="center">
-    <img src="https://img.shields.io/badge/Linguagem-C%23-blue.svg?style=flat&colorB=9332ff" alt="this is purple">
+    <img src="https://img.shields.io/badge/Linguagem-C%23-blue.svg?style=flat&colorB=9332ff" alt="Linguagem C#">
 </p>
 <!-- -->
 
@@ -25,6 +25,8 @@
     Bem-vindo ao meu repositório de <strong>C Sharp</strong>!
     <br/>
     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/" target="_blank"><strong>Ver documentação da linguagem »</strong></a>
+    <br/>
+    <a href="https://pt.wikipedia.org/wiki/C_Sharp" target="_blank"><strong>Ver página no Wikipedia »</strong></a>
     <br/><br/>
     <a href="Exercícios Resolvidos">Exercícios Resolvidos</a>
     ·
@@ -69,6 +71,8 @@ Estes são os materiais usados por mim para desenvolver e rodar meus programas e
 - [CSC](#Links-%C3%9Ateis)
 ### IDE
 - [Visual Studio Code](https://code.visualstudio.com/)
+  - Com a(s) seguinte(s) extensão(ões): <br/>
+    • [C#](https://github.com/OmniSharp/omnisharp-vscode)
 <!-- -->
 
 <!-- Programando em C Sharp-->
